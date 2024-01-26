@@ -159,6 +159,7 @@ header .sign-up {
   }
   .avatar-gallary {
     width: 100% !important;
+    margin-bottom: 0 !important;
   }
   .avatar-img-cont {
     width: 25% !important;
@@ -185,7 +186,7 @@ header .sign-up {
   align-items: center;
 }
 .avatar-gallary {
-  padding: 1.5rem 0.7rem 1.5rem 1.5rem;
+  padding: 1.5rem 0.7rem 0.5rem 1.5rem;
   background-color: var(--blue-400);
   border: 1px solid var(--blue-300);
   border-radius: 0.8rem;
@@ -292,7 +293,7 @@ header .sign-up {
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  margin: 1rem 0 3rem 0;
+  margin: 2rem 0 3rem 0;
 }
 .logo-brand-wrapper img {
   width: 40px;
