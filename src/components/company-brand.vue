@@ -1,7 +1,7 @@
 <template>
   <section class="brand-company">
-    <div class="container mt-5">
-      <p class="text-center mt-5">
+    <div class="container">
+      <p class="text-center">
         Join 1,500+ companies already video conferencing the ClearLink way
       </p>
       <div class="logo-brand-wrapper">
