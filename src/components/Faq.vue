@@ -106,6 +106,7 @@ const toggleContent = function (index) {
       faqs.value[index].showContent = !faqs.value[index].showContent;
     } else {
       faq.showContent = false;
+      console.log(faq.showContent);
     }
   });
 };
