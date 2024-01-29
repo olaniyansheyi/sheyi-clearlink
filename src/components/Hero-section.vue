@@ -104,5 +104,6 @@ import { ref } from "vue";
 let menuDisplay = ref(false);
 const showMenu = function () {
   menuDisplay.value = !menuDisplay.value;
+  console.log(menuDisplay.value);
 };
 </script>
