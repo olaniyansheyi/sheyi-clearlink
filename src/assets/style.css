@@ -33,7 +33,7 @@ body {
 .hero-section {
   width: 100%;
   height: 95vh;
-  background: url(Images/backgroundpattern.png) no-repeat;
+  background: url(../Images/backgroundpattern.png) no-repeat;
   background-size: cover;
   background-position: center;
   background-color: white;
